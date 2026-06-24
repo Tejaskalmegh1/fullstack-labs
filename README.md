@@ -1,98 +1,204 @@
-<h1 align="center">Production Ready MERN</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Engineering • Scalable Architecture • Real-World Applications</b>
-</p>
+# MERN Full Stack Labs
 
-<p align="center">
+### Production-Oriented Full Stack Development with MERN
+
+A structured repository focused on mastering modern full stack development using **MongoDB, Express.js, React.js, and Node.js** through practical implementations, scalable architecture, and real-world projects.
+
+<p>
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Express-Backend-000000?style=flat&logo=express"/>
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=flat&logo=node.js"/>
 </p>
 
----
-
-## Overview
-
-A production-focused MERN stack repository built to demonstrate real-world full-stack development.
-The codebase emphasizes scalability, modular design, and clean architecture principles.
+</div>
 
 ---
 
-## Architecture
+## About
 
-* **Client:** Component-driven UI using React
-* **Server:** RESTful APIs with Express
-* **Database:** NoSQL data modeling with MongoDB
-* **Pattern:** Modular + layered architecture
+This repository documents my journey toward becoming a proficient MERN Stack Developer.
+
+The focus is on building a strong foundation in frontend development, backend engineering, database design, API development, authentication, and full stack application architecture.
+
+The repository emphasizes:
+
+* Clean and maintainable code
+* Industry-standard project structure
+* Scalable application design
+* Practical implementation of concepts
+* Real-world project development
 
 ---
 
-## Repository Structure
+## Tech Stack
 
-```
-production-ready-mern/
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* React Router
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+* Mongoose
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* MongoDB Compass
+
+---
+
+## Learning Modules
+
+```text
+mern-fullstack-labs/
 │
-├── frontend/        # UI layer (React, JS, CSS)
-├── backend/         # Server & API layer
-├── database/        # Data modeling & persistence
-├── auth/            # Authentication & security
-├── projects/        # Integrated full-stack apps
+├── 01-html-foundations/
+├── 02-css-layouts/
+├── 03-advanced-css/
+├── 04-javascript-fundamentals/
+├── 05-javascript-core/
+├── 06-dom-and-events/
+├── 07-git-and-projects/
+├── 08-advanced-javascript/
+├── 09-react-fundamentals/
+├── 10-react-hooks/
+├── 11-react-advanced/
+├── 12-nodejs/
+├── 13-express/
+├── 14-authentication/
+├── 15-mongodb/
+├── 16-fullstack-projects/
+│
+├── assets/
 └── README.md
 ```
 
 ---
 
-## Engineering Highlights
+## Topics Covered
 
-* Modular code organization
-* REST API design principles
-* Scalable backend structure
-* Separation of concerns
-* Reusable frontend components
-* Database schema design
+### Frontend Development
+
+* Semantic HTML
+* Modern CSS
+* Responsive Design
+* Flexbox & Grid
+* JavaScript Fundamentals
+* Advanced JavaScript
+* DOM Manipulation
+* API Integration
+
+### React Development
+
+* Components
+* Props & State
+* React Hooks
+* Context API
+* React Router
+* State Management
+* Form Handling
+
+### Backend Development
+
+* Node.js
+* Express.js
+* REST APIs
+* Middleware
+* Validation
+* Error Handling
+
+### Database Development
+
+* MongoDB
+* Mongoose
+* CRUD Operations
+* Aggregation
+* Schema Design
+* Data Modeling
+
+### Security & Authentication
+
+* JWT Authentication
+* Password Hashing
+* Protected Routes
+* Authorization
+
+### Full Stack Engineering
+
+* Client-Server Communication
+* API Integration
+* Authentication Flow
+* Deployment
+* Application Architecture
 
 ---
 
-## Applications
+## Projects
 
-* **Blog Platform** → Content management system
-* **Task Manager** → CRUD-based productivity system
-* **Notes System** → Lightweight full-stack application
+This repository includes practical projects such as:
 
----
-
-## Setup
-
-```bash
-git clone (https://github.com/Tejaskalmegh1/production-ready-mern.git)
-cd production-ready-mern
-npm install
-npm start
-```
+* Portfolio Website
+* Calculator Application
+* Todo Application
+* Weather Application
+* React Multi-Page Application
+* REST API Development
+* Authentication System
+* Blog Platform
+* Task Management System
+* Full Stack MERN Applications
 
 ---
 
-## Preview & Deployment
+## Engineering Principles
 
-Adding soon...
+* Clean Code Practices
+* Reusable Components
+* Separation of Concerns
+* Modular Architecture
+* Scalable Folder Structure
+* RESTful Design Principles
+* Secure Authentication Practices
 
 ---
 
-## Key Focus
+## Goals
 
-This repository prioritizes:
+Through this repository, I aim to:
 
-* Code quality over quantity
-* Real-world implementation over tutorials
-* Scalable design over quick solutions
+* Build modern web applications
+* Develop scalable backend systems
+* Design efficient databases
+* Create production-ready APIs
+* Master the MERN Stack ecosystem
+* Showcase full stack development skills
 
 ---
 
 ## Author
 
-**Tejas Kalmegh**
-Full Stack Developer (MERN)
+### Tejas Kalmegh
+
+Full Stack Developer focused on building scalable and modern web applications using the MERN Stack.
 
 ---
+
+## License
+
+This project is licensed under the MIT License.
